@@ -1,5 +1,14 @@
 # Flight Reservation System (Using Java & Swing )  
 
+This project was done during the period of August 2015 - November 2015 as a part of the Object Oriented Programming using Java Lab (CS 594D) in my 5th semester.
+
+<b>Aim :</b>  
+
+To develop a system which enables users to search for the best combination of flight from select Indian cities to Singapore and 
+book tickets on the basis of availability ,keeping in mind some external restrictions mentioned in the problem specification. 
+
+Focus was given on adopting best design practices and making the system user friendly and efficient.  
+
 <b>Team Members :  </b>  
 
 1. Ashish Kumar Sarkar (Team Lead)  
@@ -10,12 +19,6 @@
 
 4. Ankit Anurag (Data Designer)   
 
-<b>Aim :</b>  
-
-To develop a system which enables users to search for the best combination of flight from select Indian cities to Singapore and book tickets on the basis of availability ,keeping in mind some external restrictions mentioned in the problem specification. Focus was given on adopting best design practices 
-
-and making the system user friendly and efficient.  
-  
 <b>Problem Statement :  </b>  
 
 To expand its route offering to north-western India, SilkAir (www.silkair.com), the regional wing of Singapore Airlines, is partnering SpiceJet (www.spicejet.com).  Under the tie-up, travellers from cities like Delhi, Mumbai and Pune will be able to enjoy a seamless flight connection to Singapore.  
